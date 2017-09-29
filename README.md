@@ -1,1 +1,2 @@
 # Globals-hotel
+globals
